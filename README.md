@@ -1,5 +1,7 @@
 # smart-contracts-audit-checklist
 
+example1
+
 ### **General Security**
 - [ ] **Audit**: Has the contract been reviewed by a third-party security audit?
 - [ ] **Review external contracts**: Does the contract interact securely with other external contracts?
